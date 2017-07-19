@@ -1,0 +1,30 @@
+.panel {
+	border-radius: 0;
+}
+
+.panel-heading {
+	background: white;
+}
+
+.btn {
+	margin-top: 10px;
+	border-radius: 0;
+}
+
+
+/*--------
+PROFILE
+---------*/
+
+#profile-panel {
+	margin: 0 auto;
+}
+
+#profile-name {
+	color: black;
+	font-weight: bold;
+}
+
+#profile-name:hover {
+	text-decoration: none;
+}
